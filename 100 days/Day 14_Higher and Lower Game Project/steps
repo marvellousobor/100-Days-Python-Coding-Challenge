@@ -1,0 +1,16 @@
+Generate two random numbers
+
+make a list of the data - game data
+
+create a function for compare with returns
+
+
+import two game data and assign the two random numbers to data positions
+
+Let user input to make choices
+
+an if statement to compare
+
+if false let game end
+if true let iteration continue making the correct one come at the top of the generated lists
+make sure to remove the already used item from the data
